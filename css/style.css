@@ -1,0 +1,128 @@
+.body{
+    background-color: rgba(24, 23, 23, 0.89);
+}
+header, .alert{
+    z-index: 100;
+}
+.card{
+    padding: auto;
+    margin: auto;
+}
+.card-img-top{
+    width: 500px;
+    
+}
+.carrito{
+    min-height: 80vh;
+    max-width: 1000px;
+    margin: 0 auto;
+    width: 100%;
+
+}
+.libroCarrito{
+    display: inline;
+    color: white;
+   
+}
+.hide{
+    display: none;
+}
+
+footer {
+    background-color: rgba(24, 23, 23, 0.89);
+    width: 100%;
+    margin-top: 50px;
+}
+  
+footer .contenedorFooter {
+    width: 100%;
+    max-width: 1200px;
+    margin: auto;
+    padding: 40px;
+}
+  
+footer .contBody {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+}
+  
+footer .column {
+    width: 100%;
+    max-width: 600px;
+    color: white;
+}
+  
+footer .column h2 {
+    font-size: 25px;
+}
+    
+footer .redes {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    margin-top: 15px;
+}
+  
+footer .redes img {
+    width: 40px;
+    height: 40px;
+}
+  
+footer .redes label {
+    font-size: 20px;
+    margin-top: 15px;
+    margin-left: 25px;
+}
+  
+footer .column2 {
+    max-width: 600px;
+    color: white;
+}
+  
+footer .column2 h2 {
+    font-size: 22px;
+}
+  
+footer .contacto {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    margin-top: 20px;
+}
+  
+footer .contacto img {
+    width: 40px;
+    height: 40px;
+}
+  
+footer .contacto label {
+    font-size: 20px;
+    margin-top: 15px;
+    margin-left: 20px;
+}
+  
+footer .contenedorCopy {
+    max-width: 1200px;
+    margin: auto;
+    padding: 20px;
+}
+
+footer .contCopy {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    width: 100%;
+    padding: 20px;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+}
+  
+footer .copyright {
+    text-decoration: none;
+    color: white;
+}
